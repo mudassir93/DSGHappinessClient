@@ -1,0 +1,10 @@
+/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/bin/Debug/netstandard2.0/DSGHappinessClient.Utils.deps.json
+/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/bin/Debug/netstandard2.0/DSGHappinessClient.Utils.dll
+/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/bin/Debug/netstandard2.0/DSGHappinessClient.Utils.pdb
+/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/obj/Debug/netstandard2.0/DSGHappinessClient.Utils.csproj.AssemblyReference.cache
+/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/obj/Debug/netstandard2.0/DSGHappinessClient.Utils.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/obj/Debug/netstandard2.0/DSGHappinessClient.Utils.AssemblyInfoInputs.cache
+/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/obj/Debug/netstandard2.0/DSGHappinessClient.Utils.AssemblyInfo.cs
+/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/obj/Debug/netstandard2.0/DSGHappinessClient.Utils.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/obj/Debug/netstandard2.0/DSGHappinessClient.Utils.dll
+/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/obj/Debug/netstandard2.0/DSGHappinessClient.Utils.pdb

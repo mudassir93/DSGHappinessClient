@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{BFF8E008-48FD-4218-8D0E-F9194DD64330}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utils", "Utils", "{D9AD3C2D-7E30-4806-8627-0A9373143734}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSGHappinessClient.Models", "DSGHappinessClient.Models\DSGHappinessClient.Models.csproj", "{5F41B57D-3634-4845-A81F-3B456A80D98C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSGHappinessClient.Utils", "DSGHappinessClient.Utils\DSGHappinessClient.Utils.csproj", "{925F67B0-42D0-4344-AA21-E7E74039724D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{EBBDD5EA-622D-4C53-A5C7-16816180ED71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSGHappiness.Client", "DSGHappiness.Client\DSGHappiness.Client.csproj", "{7D0E2091-80E6-42AE-B12E-9D3BA893BC7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F41B57D-3634-4845-A81F-3B456A80D98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F41B57D-3634-4845-A81F-3B456A80D98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F41B57D-3634-4845-A81F-3B456A80D98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F41B57D-3634-4845-A81F-3B456A80D98C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925F67B0-42D0-4344-AA21-E7E74039724D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925F67B0-42D0-4344-AA21-E7E74039724D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925F67B0-42D0-4344-AA21-E7E74039724D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925F67B0-42D0-4344-AA21-E7E74039724D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0E2091-80E6-42AE-B12E-9D3BA893BC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0E2091-80E6-42AE-B12E-9D3BA893BC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0E2091-80E6-42AE-B12E-9D3BA893BC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0E2091-80E6-42AE-B12E-9D3BA893BC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E06A033-BF15-42D8-B0B7-8C3D10F91366}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{925F67B0-42D0-4344-AA21-E7E74039724D} = {D9AD3C2D-7E30-4806-8627-0A9373143734}
+		{BFF8E008-48FD-4218-8D0E-F9194DD64330} = {EBBDD5EA-622D-4C53-A5C7-16816180ED71}
+		{D9AD3C2D-7E30-4806-8627-0A9373143734} = {EBBDD5EA-622D-4C53-A5C7-16816180ED71}
+		{7D0E2091-80E6-42AE-B12E-9D3BA893BC7E} = {EBBDD5EA-622D-4C53-A5C7-16816180ED71}
+		{5F41B57D-3634-4845-A81F-3B456A80D98C} = {BFF8E008-48FD-4218-8D0E-F9194DD64330}
+	EndGlobalSection
+EndGlobal

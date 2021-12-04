@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappiness.Client/DSGHappiness.Client.csproj": {}
+  },
+  "projects": {
+    "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappiness.Client/DSGHappiness.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappiness.Client/DSGHappiness.Client.csproj",
+        "projectName": "DSGHappiness.Client",
+        "projectPath": "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappiness.Client/DSGHappiness.Client.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappiness.Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/apple/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ilmasoft.pkgs.visualstudio.com/CIQBackendServices/_packaging/CIQ/nuget/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Models/DSGHappinessClient.Models.csproj": {
+                "projectPath": "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Models/DSGHappinessClient.Models.csproj"
+              },
+              "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/DSGHappinessClient.Utils.csproj": {
+                "projectPath": "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/DSGHappinessClient.Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Models/DSGHappinessClient.Models.csproj": {
+      "version": "0.1.0",
+      "restore": {
+        "projectUniqueName": "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Models/DSGHappinessClient.Models.csproj",
+        "projectName": "DSGHappinessClient.Models",
+        "projectPath": "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Models/DSGHappinessClient.Models.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/apple/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ilmasoft.pkgs.visualstudio.com/CIQBackendServices/_packaging/CIQ/nuget/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "NuGet.Build.Packaging": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.2.5-dev.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/DSGHappinessClient.Utils.csproj": {
+      "version": "0.1.0",
+      "restore": {
+        "projectUniqueName": "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/DSGHappinessClient.Utils.csproj",
+        "projectName": "DSGHappinessClient.Utils",
+        "projectPath": "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/DSGHappinessClient.Utils.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Utils/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/apple/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ilmasoft.pkgs.visualstudio.com/CIQBackendServices/_packaging/CIQ/nuget/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "NuGet.Build.Packaging": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.2.5-dev.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

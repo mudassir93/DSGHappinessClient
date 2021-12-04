@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q90bb2jJVOuDJaHm0NpMYIH0wdwNsITdSDGpkE1qSuhhvZOdEmnAMpUypHjY4AOyLlsV0ky0OHCZervb2OuVAw==",
+  "success": true,
+  "projectFilePath": "/Users/apple/Projects/DSGHappinessClient/DSGHappinessClient/DSGHappinessClient.Models/DSGHappinessClient.Models.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/apple/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/apple/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/apple/.nuget/packages/nuget.build.packaging/0.2.5-dev.8/nuget.build.packaging.0.2.5-dev.8.nupkg.sha512"
+  ],
+  "logs": []
+}
