@@ -1,4 +1,4 @@
-﻿# <img src="https://ilmasoft.visualstudio.com/b3fbc85c-534c-4b82-8453-97ecc553d385/_apis/git/repositories/01a03d1b-365f-4a4d-bad8-113d1a1e9bdf/items?path=%2FCIQ.Client%2Ficon.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&resolveLfs=true&%24format=octetStream&api-version=5.0" width="71" height="71"/> CIQ.Client
+﻿# <img src="https://github.com/mudassir93/DSGHappinessClient/blob/main/DSGHappinessClient.Models/icon.png" width="71" height="71"/> DSGHappinessClient.Models
 
 DSGHappinessClient.Models is a .Net Standard package which contains Model Classes for DSG Happiness Client
 

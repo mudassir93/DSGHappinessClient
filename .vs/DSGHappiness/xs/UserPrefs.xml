@@ -1,15 +1,23 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DSGHappinessClient.Utils/readme.md">
+    <Files>
+      <File FileName="DSGHappinessClient.Models/LICENSE.md" Line="1" Column="1" />
+      <File FileName="DSGHappinessClient.Models/readme.md" Line="2" Column="1" />
+      <File FileName="DSGHappinessClient.Utils/Utils.cs" Line="1" Column="1" />
+      <File FileName="DSGHappinessClient.Utils/readme.md" Line="1" Column="96" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DSGHappiness" expanded="True">
             <Node name="Client" expanded="True">
               <Node name="Models" expanded="True">
-                <Node name="DSGHappinessClient.Models" expanded="True" selected="True" />
+                <Node name="DSGHappinessClient.Models" expanded="True" />
               </Node>
               <Node name="Utils" expanded="True">
-                <Node name="DSGHappinessClient.Utils" expanded="True" />
+                <Node name="DSGHappinessClient.Utils" expanded="True">
+                  <Node name="readme.md" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>

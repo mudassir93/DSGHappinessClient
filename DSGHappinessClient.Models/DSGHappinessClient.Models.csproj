@@ -11,10 +11,9 @@
     <Summary>This package contains all the Model Classes to create JSON body for DSG Happiness Meter Request.</Summary>
     <Title>DSG Happiness Meter Client Models</Title>
     <PackageTags>dsg, happiness meter, dubai smart government, voting manager, voting request</PackageTags>
-    <PackageIconUrl>/icon.png</PackageIconUrl>
-    <PackageLicenseUrl>/LICENSE.md</PackageLicenseUrl>
-    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <PackageProjectUrl>https://github.com/mudassir93/DSGHappinessClient</PackageProjectUrl>
+    <PackageIconUrl>https://github.com/mudassir93/DSGHappinessClient/blob/main/DSGHappinessClient.Models/icon.png</PackageIconUrl>
+    <PackageLicenseUrl>https://github.com/mudassir93/DSGHappinessClient/blob/main/DSGHappinessClient.Models/LICENSE.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/mudassir93/DSGHappinessClient/tree/main/DSGHappinessClient.Models</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>

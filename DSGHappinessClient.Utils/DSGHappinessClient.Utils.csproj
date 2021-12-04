@@ -10,10 +10,10 @@
     <Owners>Syed Mudassir Shah</Owners>
     <Title>DSG Happiness Meter Client Utilities</Title>
     <Summary>This package contains all the Utilities or helper methods.</Summary>
-    <PackageIconUrl>/icon.png</PackageIconUrl>
-    <PackageLicenseUrl>/LICENSE.md</PackageLicenseUrl>
+    <PackageIconUrl>https://github.com/mudassir93/DSGHappinessClient/blob/main/DSGHappinessClient.Utils/icon.png</PackageIconUrl>
+    <PackageLicenseUrl>https://github.com/mudassir93/DSGHappinessClient/blob/main/DSGHappinessClient.Utils/LICENSE.md</PackageLicenseUrl>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <PackageProjectUrl>https://github.com/mudassir93/DSGHappinessClient</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/mudassir93/DSGHappinessClient/tree/main/DSGHappinessClient.Utils</PackageProjectUrl>
     <PackageTags>dsg, happiness meter, dubai smart government, voting manager, voting request</PackageTags>
   </PropertyGroup>
 
