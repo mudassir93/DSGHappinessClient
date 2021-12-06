@@ -1,4 +1,4 @@
-﻿# <img src="https://github.com/mudassir93/DSGHappinessClient/blob/main/DSGHappinessClient.Utils/icon.png" width="71" height="71"/> DSGHappinessClient.Utils
+﻿# ßDSGHappinessClient.Utils
 
 DSGHappinessClient.Utils is a .Net Standard package which contains Util class.Util class contains some helper methods.
 

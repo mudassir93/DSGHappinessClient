@@ -35,7 +35,7 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "DSGHappinessClient.Models/0.1.0": {
+      "DSGHappinessClient.Models/0.2.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -48,7 +48,7 @@
           "bin/placeholder/DSGHappinessClient.Models.dll": {}
         }
       },
-      "DSGHappinessClient.Utils/0.1.0": {
+      "DSGHappinessClient.Utils/0.2.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -235,12 +235,12 @@
         "packageIcon.png"
       ]
     },
-    "DSGHappinessClient.Models/0.1.0": {
+    "DSGHappinessClient.Models/0.2.0": {
       "type": "project",
       "path": "../DSGHappinessClient.Models/DSGHappinessClient.Models.csproj",
       "msbuildProject": "../DSGHappinessClient.Models/DSGHappinessClient.Models.csproj"
     },
-    "DSGHappinessClient.Utils/0.1.0": {
+    "DSGHappinessClient.Utils/0.2.0": {
       "type": "project",
       "path": "../DSGHappinessClient.Utils/DSGHappinessClient.Utils.csproj",
       "msbuildProject": "../DSGHappinessClient.Utils/DSGHappinessClient.Utils.csproj"
@@ -248,8 +248,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "DSGHappinessClient.Models >= 0.1.0",
-      "DSGHappinessClient.Utils >= 0.1.0",
+      "DSGHappinessClient.Models >= 0.2.0",
+      "DSGHappinessClient.Utils >= 0.2.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },

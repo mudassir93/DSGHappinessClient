@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageVersion>0.1.0</PackageVersion>
+    <PackageVersion>0.2.0</PackageVersion>
     <Authors>Syed Mudassir Shah</Authors>
     <Description>Dubai Smart Government Happiness Meter Client Utilities</Description>
     <PackOnBuild>true</PackOnBuild>

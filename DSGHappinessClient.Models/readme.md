@@ -1,4 +1,4 @@
-﻿# <img src="https://github.com/mudassir93/DSGHappinessClient/blob/main/DSGHappinessClient.Models/icon.png" width="71" height="71"/> DSGHappinessClient.Models
+﻿# DSGHappinessClient.Models
 
 DSGHappinessClient.Models is a .Net Standard package which contains Model Classes for DSG Happiness Client
 

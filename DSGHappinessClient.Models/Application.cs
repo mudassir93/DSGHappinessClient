@@ -11,7 +11,7 @@ namespace DSGHappinessClient.Models
         }
 
         /// <summary>
-        /// 
+        /// Initialize Transaction Object with required parameters
         /// </summary>
         /// <param name="applicationId">(Required) Application ID, DSG to provide to Entity during Application Registration.</param>
         /// <param name="type">(Required) Any of WEBAPP|SMARTAPP|DESKTOP</param>

@@ -12,7 +12,7 @@ namespace DSGHappinessClient.Models
 
 
         /// <summary>
-        /// 
+        /// Initialize Header Object with required parameters
         /// </summary>
         /// <param name="timestamp">(Required) Set UTC timestamp with format : dd/MM/yyyy HH:mm:ss</param>
         /// <param name="serviceProvider">(Required) Set service provider e.g: DSG</param>

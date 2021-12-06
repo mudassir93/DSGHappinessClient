@@ -16,29 +16,30 @@ namespace DSGHappiness.Client
             ClientId = clientId;
             Language = language;
 
+            var utils = new Utils();
 
             var baseURL = isQA ? BaseURLQA : BaseURL;
 
             RequestUrl =  $"{baseURL}HappinessMeter2/MobilePostDataService";
 
-            Random = Utils.GetRandomString();
+            Random = utils.GetRandomString();
 
             var request = new VotingRequest(
                   new User("", "", "", ""),
-                  new Header(Utils.GetCurrentTimeStamp(),"", "", "", "", RequestType.RequestTransactionWithoutMicroApp),
+                  new Header(utils.GetCurrentUtcTimeStamp(),"", "", "", "", RequestType.RequestTransactionWithoutMicroApp),
                   new Application("", "", "", "", "", ""),
                   new Transaction("", "", "", "", "")
                 );
 
-            var jsonPayload = Utils.GetJsonString(request.GetDictionary());
+            var jsonPayload = utils.GetJsonString(request.GetDictionary());
 
             var signatureRaw = $"{jsonPayload}|{ServiceProviderSecret}";
 
-            string signature = Utils.GetSHA512(signatureRaw);
+            string signature = utils.GetSHA512(signatureRaw);
 
             string nonceRaw = $"{Random}|{request.Header.TimeStamp}|{serviceProviderSecret}";
 
-            string nonce = Utils.GetSHA512(nonceRaw);
+            string nonce = utils.GetSHA512(nonceRaw);
 
         }
 
